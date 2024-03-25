@@ -1,0 +1,18 @@
+table {
+  margin-top: 20px;
+  width: 400px;
+}
+
+table > tr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content {
+  text-align: left;
+}
+
+.button {
+  margin-left: 5px;
+}
